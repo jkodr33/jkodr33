@@ -1,4 +1,4 @@
-- Olá, me chamo Josué e sou desenvolvedor Web e PY Técnico.
+- Olá, me chamo Josué e sou Desenvolvedor Software.
 - Estudo a linguagem Py e futuramente talvez eu estude Ruby.
 - Há muitos projetos que pretendo estudar e desenvolver para serviços e para o mercado de trabalho futuramente.
 - Então aqui estará meus projetos desenvolvidos e completos para demonstrações.
