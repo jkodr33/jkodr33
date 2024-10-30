@@ -1,5 +1,5 @@
 - Olá, me chamo Josué e sou Desenvolvedor Software.
-- Estudo a linguagem Py e futuramente talvez eu estude Ruby.
+- Estudo a linguagem Py e futuramente farei projetos com Ruby e flutter.
 - Há muitos projetos que pretendo estudar e desenvolver para serviços e para o mercado de trabalho futuramente.
 - Então aqui estará meus projetos desenvolvidos e completos para demonstrações.
 - Basicamente, criarei um portfólio para demonstrar cada projeto estudado e desenvolvido.
