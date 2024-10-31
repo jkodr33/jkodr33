@@ -1,12 +1,18 @@
-![BannerS](https://github.com/user-attachments/assets/c25d5bda-bce7-4e9b-8bd9-7b5af7bdf17d)
+![Banner2S](https://github.com/user-attachments/assets/f6f0921e-316f-4d14-9406-b64c0e310cb0)
+
 
 Olá me chamo Josué e sou Desenvolvedor Software.
 
 Sou técnico na área de desenvolvimento e estou desenvolvendo projetos para futuros serviços e mercado de trabalho.
 
-Cursei Python e Javascript, e atualmente cursando Ruby.
+Linguagens:
 
-Projetos em Desenvolvimento:
+- Python
+- Dart
+- JScript
+- Ruby
+
+Tipos de projetos em Desenvolvimento:
 
 - Sistemas
 - Aplicativos Dsktop
@@ -14,7 +20,7 @@ Projetos em Desenvolvimento:
 - Automacoes
 - Bots
 
-
+  
 Aqui será meu portfólio para demonstrar cada projeto estudado e desenvolvido.
 Projetos estarão logo abaixo:
 
