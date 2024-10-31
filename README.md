@@ -3,12 +3,15 @@
 Olá me chamo Josué e sou Desenvolvedor Software.
 
 Estudo e faço projetos com Python, Ruby e Flutter.
+
 Projetos em Desenvolvimento:
+
 - Sistemas(Web ou app)
 - App's Desktop
 - App's Android
 - Automacoes
 - Bots
+  
 Há muitos projetos que pretendo estudar e desenvolver para serviços e para o mercado de trabalho futuramente.
 Aqui será meu portfólio para demonstrar cada projeto estudado e desenvolvido.
 Projetos estarão logo abaixo:
