@@ -11,7 +11,7 @@ Sou técnico na área de desenvolvimento e Automação. Estou desenvolvendo proj
 Linguagens:
 
 - Python
-- JavaScript
+- JavaScript(Intermediário)
 - Dart(Flutter)
 - Kotlin
 - PHP
