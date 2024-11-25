@@ -2,8 +2,6 @@
 
 
 
-
-Nome: Josué 
 Desenvolvedor de Software e de Aprendizado de Máquina(ML).
 
 Sou técnico na área de desenvolvimento e Automação. Estou desenvolvendo projetos para futuros serviços e mercado de trabalho.
