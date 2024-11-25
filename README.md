@@ -3,22 +3,26 @@
 
 
 
-Olá me chamo Josué e sou Desenvolvedor Software.
+Nome: Josué 
+Desenvolvedor de Software e de Aprendizado de Máquina(ML).
 
-Sou técnico na área de desenvolvimento e estou desenvolvendo projetos para futuros serviços e mercado de trabalho.
+Sou técnico na área de desenvolvimento e Automação. Estou desenvolvendo projetos para futuros serviços e mercado de trabalho.
 
 Linguagens:
 
 - Python
-- Dart
-- JScript
-- Ruby
+- JavaScript
+- Dart(Flutter)
+- NativeScript
+- PHP
+- API's
 
 Tipos de projetos em Desenvolvimento:
 
 - Sistemas
 - Aplicativos Dsktop
 - Aplicativos Android/IOS
+- Micro-Saas
 - Automacoes
 - Bots
 
