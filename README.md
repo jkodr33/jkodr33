@@ -13,7 +13,7 @@ Linguagens:
 - Python
 - JavaScript
 - Dart(Flutter)
-- NativeScript
+- Kotlin
 - PHP
 - API's
 
