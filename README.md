@@ -1,5 +1,4 @@
-![Banner4S](https://github.com/user-attachments/assets/02b2ed4d-4e8c-4a33-813b-f15b9683d030)
-
+![Readme1 1 0](https://github.com/user-attachments/assets/357bbe4c-d5f0-4e5b-80c9-793020f29d1f)
 
 
 Desenvolvedor de Software e de Aprendizado de Máquina(ML).
