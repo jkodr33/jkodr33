@@ -1,4 +1,5 @@
-![Readme1 1 0](https://github.com/user-attachments/assets/357bbe4c-d5f0-4e5b-80c9-793020f29d1f)
+![readme1 3 0-3](https://github.com/user-attachments/assets/669de9b9-0811-493e-8502-ce782fb3094e)
+
 
 
 Desenvolvedor de Software e de Aprendizado de Máquina(ML).
