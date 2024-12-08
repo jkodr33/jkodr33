@@ -10,10 +10,9 @@ Linguagens:
 
 - Python
 - JavaScript(Intermediário)
-- Dart(Flutter)
-- Kotlin
+- Dart/Flutter
+- React Native
 - PHP
-- API's
 
 Tipos de projetos em Desenvolvimento:
 
