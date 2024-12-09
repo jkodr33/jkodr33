@@ -19,7 +19,7 @@ Tipos de projetos em Desenvolvimento:
 - Sistemas
 - Aplicativos Dsktop
 - Aplicativos Android/IOS
-- Micro-Saas
+- Micro-SAAS
 - Automacoes
 - Bots
 
