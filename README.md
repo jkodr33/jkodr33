@@ -10,12 +10,29 @@ No instagram tenho um perfil "[]" freelancing para prestar serviços ou particip
 
 
 
-<p align="center">
- 
-  <a href="https://github.com/jkodr33?tab=Seguidores">
-    <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Seguidores&logoColor=white"/></a>
-
+<p align="left">
+    <a 
+        />
+    </a>
+    <a 
+        />
+    </a> 
+    <a href="https://github.com/jkodr33?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/jkodr33?color=EDB200&style=for-the-badge&labelColor=FFDE00&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/jkodr33?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/jkodr33?color=000000&labelColor=000000&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>   
 </p>
+
 
 
 ## 🚀 Ferramentas
