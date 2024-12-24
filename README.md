@@ -7,12 +7,11 @@ Desenvolvedor de Software e de Aprendizado de Máquina(ML).
 
 Técnico na área de desenvolvimento e Automação. Estou desenvolvendo projetos para futuros serviços e mercado de trabalho.
 
-## Linguagens:
+## Ferramentas:
 
 - Python
 - JavaScript(Intermediário)
 - Dart/Flutter
-- React Native
 - PHP
 
 ## Projetos:
