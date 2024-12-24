@@ -155,29 +155,6 @@ Futuramente pretendo criar canal no Youtube para demonstrar alguns projetos e su
 <br>
 <br>
 
-## 🔒 Banco de Dados
-
-<img 
-    align="left" 
-    alt="Firebase" 
-    title="Firebase"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://devicon-website.vercel.app/api/firebase/plain.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://devicon-website.vercel.app/api/mysql/original.svg" 
-/>
-
-<br>
-<br>
-
 ## 📊 Estatísticas
 
 <p>
