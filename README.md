@@ -94,14 +94,6 @@ Futuramente pretendo criar canal no Youtube para demonstrar alguns projetos e su
 />
 
 
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
 <br>
 <br>
 
