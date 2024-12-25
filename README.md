@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5800A6&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Josué+.;Seja-bem+vindo+ao+meu+Github👍;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7A2FDD&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Josué+.;Seja-bem+vindo+ao+meu+Github👍;)](https://git.io/typing-svg)
 
 **Desenvolvedor Software e ML**
 
