@@ -3,10 +3,9 @@
 **Desenvolvedor Software e ML**
 
 Sou Técnico na área de desenvolvimento de software e automação. 
-Tenho 19 anos e Atualmente estou cursando React Native para desenvolvimento de aplicativos Android e iOS.
-
-No instagram tenho um perfil [MobScript](https://www.instagram.com/mob._script/) freelancing para prestar serviços ou participar de projetos Software, me siga lá para saber mais sobre novos projetos, caso precise de ajuda com seu projeto, entre em contato comigo por lá!!
-
+Tenho 19 anos e Atualmente sou desenvolvedor de aplicativos Web, Android e iOS.\
+No instagram tenho um perfil [MobScript](https://www.instagram.com/mob._script/) freelancing para prestar serviços ou participar de projetos Software, me siga lá para saber mais sobre novos projetos.\
+Caso precise de ajuda com seu projeto, entre em contato comigo por lá!!\
 Futuramente pretendo criar canal no Youtube para demonstrar alguns projetos e suas funções.
 
 
